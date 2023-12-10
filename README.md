@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Amna 👋
+<div align="center"> # Hello, I'm Amna 👋
 
 I am a passionate Software Engineering student currently focused on learning .NET and MS SQL. 
 Welcome to my GitHub profile!
 Here you'll find a collection of projects that reflect my journey in the world of software development.
 
+</div>
 ## 🔧 Technologies & Tools
 
 - C#
