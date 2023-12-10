@@ -21,34 +21,30 @@ Welcome to my GitHub profile!
 Here you'll find a collection of projects that reflect my journey in the world of software development.
 </div>
 
-<div style="float: left; width: 50%;">
-  
-## 🔧 Technologies & Tools
-
-- C#
-- .NET Framework and .NET Core
-- Microsoft SQL Server
-- C++
-- HTML
-- CSS
-- JavaScript
-- Arduino
-- Java
-- Python
-- Git & GitHub
-</div>
-
-<div style="float: right; width: 50%;">
-
-## 🌱 Current Learning
-
-I'm currently expanding my knowledge in the following areas:
-
-- .NET
-- MS SQL
+<div align="center">
+  <h3>🔧 Technologies & Tools</h3>
+  <p>
+    <img src="csharp-icon.png" alt="C#" width="40" height="40"> C#
+    <img src="dotnet-icon.png" alt=".NET" width="40" height="40"> .NET Framework and .NET Core
+    <img src="mssql-icon.png" alt="MS SQL" width="40" height="40"> Microsoft SQL Server
+    <img src="cpp-icon.png" alt="C++" width="40" height="40"> C++
+    <img src="html-icon.png" alt="HTML" width="40" height="40"> HTML
+    <img src="css-icon.png" alt="CSS" width="40" height="40"> CSS
+    <img src="js-icon.png" alt="JavaScript" width="40" height="40"> JavaScript
+    <img src="arduino-icon.png" alt="Arduino" width="40" height="40"> Arduino
+    <img src="java-icon.png" alt="Java" width="40" height="40"> Java
+    <img src="python-icon.png" alt="Python" width="40" height="40"> Python
+    <img src="git-icon.png" alt="Git" width="40" height="40"> Git & GitHub
+  </p>
 </div>
 
 <div align="center">
+  <h3>🌱 Currently Learning</h3>
+  <p>
+    <img src="dotnet-icon.png" alt=".NET" width="40" height="40"> .NET
+    <img src="mssql-icon.png" alt="MS SQL" width="40" height="40"> MS SQL
+  </p>
+</div>
 
 ## 💬 Let's Connect
 
