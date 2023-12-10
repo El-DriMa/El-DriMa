@@ -52,7 +52,7 @@ I'm currently expanding my knowledge in the following areas:
 
 ## 💬 Let's Connect
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-hodzic/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-hodzic/)
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
@@ -60,7 +60,7 @@ Feel free to reach out if you have any questions, suggestions, or just want to c
 
 ## 📈 GitHub Stats
 
-![Profile views](https://gpvc.arturio.dev/El-DriMa)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=El-DriMa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎉 Thanks for visiting!
 
