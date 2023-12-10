@@ -52,7 +52,7 @@ I'm currently expanding my knowledge in the following areas:
 
 ## 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-hodzic/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-hod%C5%BEi%C4%87/)
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
