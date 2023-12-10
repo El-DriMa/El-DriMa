@@ -24,7 +24,7 @@ Here you'll find a collection of projects that reflect my journey in the world o
 <div align="center">
   <h3>🔧 Technologies & Tools</h3>
   <p>
-    <img src="[csharp-icon.png](https://simpleicons.org/icons/csharp.svg)" alt="C#" width="40" height="40"> C#
+    <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="40" height="40"> 
     <img src="dotnet-icon.png" alt=".NET" width="40" height="40"> .NET Framework and .NET Core
     <img src="mssql-icon.png" alt="MS SQL" width="40" height="40"> Microsoft SQL Server
     <img src="cpp-icon.png" alt="C++" width="40" height="40"> C++
