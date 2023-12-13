@@ -17,8 +17,7 @@ Here are some ideas to get you started:
   <h2>Hello, I'm Amna 👋</h2>
 
 I am a passionate Software Engineering student currently focused on learning .NET and MS SQL. 
-Welcome to my GitHub profile!
-Here you'll find a collection of projects that reflect my journey in the world of software development.
+Welcome to my GitHub profile and have fun :) !
 </div>
 <!--
 <div align="center">
