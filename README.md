@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 I am a passionate Software Engineering student currently focused on learning .NET and MS SQL. 
 Welcome to my GitHub profile and have fun :) !
-</div>
+</div>![](https://komarev.com/ghpvc/?username=El-DriMa&color=blueviolet&style=flat)
+
 <!--
 <div align="center">
   <h3>🔧 Technologies & Tools</h3>
