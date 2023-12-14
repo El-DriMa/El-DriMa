@@ -17,8 +17,9 @@ Here are some ideas to get you started:
   <h2>Hello, I'm Amna 👋</h2>
 
 I am a passionate Software Engineering student currently focused on learning .NET and MS SQL. 
-Welcome to my GitHub profile and have fun :) !
-</div>![](https://komarev.com/ghpvc/?username=El-DriMa&color=blueviolet&style=flat)
+Welcome to my GitHub profile and have fun :) !</div>
+
+</div>!(https://komarev.com/ghpvc/?username=El-DriMa&color=blueviolet&style=flat)</div>
 
 <!--
 <div align="center">
