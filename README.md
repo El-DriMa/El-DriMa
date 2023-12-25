@@ -29,6 +29,5 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=El-DriMa&style=flat-square&color=blue&base=120" alt=""/>
 </div>
 <div align="center">
-  
-###   i'll finish this later <3
+  <b>Currently focused on .NET</b>
 </div>
