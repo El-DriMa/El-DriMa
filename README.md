@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-<h1 align="center">Hi 👋, I'm Amna</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h1 align="center">Hi 💖, I'm Amna</h1>
 
 
   
