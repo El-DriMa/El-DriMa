@@ -22,8 +22,6 @@ Hi 💖, I'm Amna, a software engineering student passionate about building prac
 
   I primarily work on personal projects and am still in the learning phase, without any professional experience yet. 
   Computers and games have always fascinated me, driving my interest in exploring the world of software engineering.
-
-  I've extensively explored various IT fields, including game development with Unity, Unreal Engine, and Lua (utilized in Love2D platform), AI/ML with Python and TensorFlow, and lastly with ML.NET.
   
 Feel free to explore my projects, and let's connect if you share similar interests or have exciting ideas to discuss!
 </p>
