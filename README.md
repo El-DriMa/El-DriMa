@@ -33,7 +33,7 @@ Feel free to explore my projects, and let's connect if you share similar interes
 
 ## 💻 The technologies I'm currently working with
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,vscode,angular,ts,vue)](https://skillicons.dev)   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,vscode,angular,ts)](https://skillicons.dev)   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=El-DriMa&theme=dark&hide_border=false)<br/>
