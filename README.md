@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p>
-Hi 💖, I'm Amna, a software engineering student passionate about building practical solutions through code. While my primary focus has been backend development, I'm currently diving into frontend technologies as well.
+Hi 💖, I'm Amna, final-year software engineering student passionate about building practical solutions through code. While my primary focus has been backend development, I'm currently diving into frontend technologies as well.
 
   I primarily work on personal projects and am still in the learning phase, without any professional experience yet. 
   Computers and games have always fascinated me, driving my interest in exploring the world of software engineering.
