@@ -18,18 +18,28 @@ Here are some ideas to get you started:
 
 
 <p>
-Hi 💖, I'm Amna, final-year software engineering student passionate about building practical solutions through code. While my primary focus has been backend development, I'm currently diving into frontend technologies as well.
+Hi 💖, I'm Amna, a final-year software engineering student passionate about building efficient and scalable solutions. With experience in both backend and frontend development, I enjoy solving complex problems, optimizing systems, and writing clean, maintainable code.  
 
-  I primarily work on personal projects and am still in the learning phase, without any professional experience yet. 
-  Computers and games have always fascinated me, driving my interest in exploring the world of software engineering.
-  
-Feel free to explore my projects, and let's connect if you share similar interests or have exciting ideas to discuss!
+I primarily work on personal projects, continuously expanding my skills in software architecture, database design, and web development. I have a strong analytical mindset and a constant drive to improve, always seeking better ways to develop robust and high-performing applications.  
+
+Feel free to explore my projects, and let’s connect if you’re working on something exciting or looking for collaboration! 🚀  
+
 </p>
+
+## 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=El-DriMa&color=ff69b4&style=flat)
+
 
 
 ## 💻 The technologies I'm currently working with
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,angular,flutter,ts,figma)](https://skillicons.dev)   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+
+
+## GitHub Stats
+
+![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=El-DriMa&show_icons=true&count_private=true&hide_title=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
