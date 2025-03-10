@@ -28,7 +28,7 @@ Feel free to explore my projects, and let’s connect if you’re working on som
 
 ## 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=El-DriMa&color=ff69b4&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=El-DriMa&color=ff69b4&style=for-the-badge)
 
 
 
