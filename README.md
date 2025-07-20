@@ -14,32 +14,30 @@ Here are some ideas to get you started:
 -->
 <div align="left">
 
-## A Bit About Me 🚀
+### 💡 About Me
 
+Hi, I’m Amna - Software Engineer focused on backend, experienced in full stack development.  
+Currently working with **C#**, **.NET**, **SQL**, **Flutter**, and **Angular**.  
+I focus on building reliable and efficient APIs, designing clean and scalable architectures, and developing intuitive user interfaces.
 
-<p>
-Hi 💖, I'm Amna, a final-year software engineering student passionate about building efficient and scalable solutions. With experience in both backend and frontend development, I enjoy solving complex problems, optimizing systems, and writing clean, maintainable code.  
-
-I primarily work on personal projects, continuously expanding my skills in software architecture, database design, and web development. I have a strong analytical mindset and a constant drive to improve, always seeking better ways to develop robust and high-performing applications.  
-
-Feel free to explore my projects, and let’s connect if you’re working on something exciting or looking for collaboration! 🚀  
-
-</p>
-
-## 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=El-DriMa&color=ff69b4&style=for-the-badge)
+Always learning. Always building. 🚀
 
 
 
-## 💻 The technologies I'm currently working with
+
+### 💻 Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,angular,flutter,ts,figma)](https://skillicons.dev)   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 
 
-## GitHub Stats
+### 📈 GitHub Stats
 
-![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=El-DriMa&show_icons=true&count_private=true&hide_title=true)
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=El-DriMa&show_icons=true&count_private=true&theme=tokyonight&hide_title=true" height="170"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=El-DriMa&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
