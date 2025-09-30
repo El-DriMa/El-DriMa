@@ -16,18 +16,22 @@ Here are some ideas to get you started:
 
 ### 💡 About Me
 
-Hi, I’m Amna - Software Engineer focused on backend, experienced in full stack development.  
-Currently working with **C#**, **.NET**, **SQL**, **Flutter**, and **Angular**.  
-I focus on building reliable and efficient APIs, designing clean and scalable architectures, and developing intuitive user interfaces.
+Hi, I’m Amna - a Software Engineer with a Bachelor's degree in Information Technology focused on backend development, with experience in full-stack projects.
+
+Skilled in **C#**, **.NET**, **SQL**, **Flutter**, and **Angular**.
+
+Currently in the process of learning **Java**, **Spring Boot**, and **MariaDB**.
+
+I specialize in building reliable and efficient APIs, designing clean and scalable architectures, and developing intuitive user interfaces.
+
 
 Always learning. Always building. 🚀
 
 
 
-
 ### 💻 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,angular,flutter,ts,figma)](https://skillicons.dev)   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,angular,flutter,ts,java,figma)](https://skillicons.dev)   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 
 
 ### 📈 GitHub Stats
